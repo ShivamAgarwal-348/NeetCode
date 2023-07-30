@@ -1,2 +1,2 @@
 # NeetCode
-Solving leetcode questions based on the NeetCode list
+Solving leetcode questions based on the NeetCode-150 list
